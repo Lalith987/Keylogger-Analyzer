@@ -27,8 +27,8 @@ An all-in-one cybersecurity utility built with Python and Tkinter for real-time 
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/lalith987/Keylogger-Analyzer.git
+    cd Keylogger_Analyzer
     ```
 
 2.  Install the required libraries:
@@ -38,7 +38,7 @@ An all-in-one cybersecurity utility built with Python and Tkinter for real-time 
 
 3.  Run the application:
     ```bash
-    python all_in_one_analyzer.py
+    python Keylogger_Analyzer.py
     ```
     *Note: For full functionality (especially network scanning and process termination), it is recommended to run the script with administrator privileges.*
 
